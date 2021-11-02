@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zyz/hpc_r/kmeans/build",
+  "command": "/usr/bin/c++    -O1 -march=native -g -fopenmp -g   -std=gnu++2a -o CMakeFiles/kmeans.dir/kmeans.cpp.o -c /home/zyz/hpc_r/kmeans/kmeans.cpp",
+  "file": "/home/zyz/hpc_r/kmeans/kmeans.cpp"
+},
+{
+  "directory": "/home/zyz/hpc_r/kmeans/build",
+  "command": "/usr/bin/c++    -O1 -march=native -g -fopenmp -g   -std=gnu++2a -o CMakeFiles/kmeans.dir/main.cpp.o -c /home/zyz/hpc_r/kmeans/main.cpp",
+  "file": "/home/zyz/hpc_r/kmeans/main.cpp"
+}
+]

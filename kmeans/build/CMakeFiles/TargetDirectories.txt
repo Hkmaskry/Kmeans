@@ -1,0 +1,3 @@
+/home/zyz/hpc_r/kmeans/build/CMakeFiles/rebuild_cache.dir
+/home/zyz/hpc_r/kmeans/build/CMakeFiles/edit_cache.dir
+/home/zyz/hpc_r/kmeans/build/CMakeFiles/kmeans.dir

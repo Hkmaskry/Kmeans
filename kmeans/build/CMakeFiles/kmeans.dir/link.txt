@@ -1,0 +1,1 @@
+/usr/bin/c++  -O1 -march=native -g -fopenmp -g  -pg CMakeFiles/kmeans.dir/kmeans.cpp.o CMakeFiles/kmeans.dir/main.cpp.o  -o kmeans  -lpthread 

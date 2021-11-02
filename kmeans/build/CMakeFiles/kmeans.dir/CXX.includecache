@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyz/hpc_r/kmeans/kmeans.cpp
+kmeans.hpp
+/home/zyz/hpc_r/kmeans/kmeans.hpp
+queue
+-
+cassert
+-
+limits
+-
+omp.h
+-
+immintrin.h
+-
+
+/home/zyz/hpc_r/kmeans/kmeans.hpp
+vector
+-
+iostream
+-
+immintrin.h
+-
+
